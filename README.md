@@ -13,3 +13,11 @@
 <p align="left">Consumir a Rest API do Spotify dentro do Java utilizando Spring Boot e a sua dependência Spring Cloud Open Feign.</p>
 
 ###
+
+<h2 align="left">Observação</h2>
+
+###
+
+<p align="left">Necessário trocar as credenciais para que o projeto funcione, elas ficam disponíveis no site: https://developer.spotify.com/<br><br>Necessário fazer o login, com isso elas são geradas de forma automática.</p>
+
+###
