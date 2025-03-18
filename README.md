@@ -1,4 +1,4 @@
-<h2 align="left">OpenFeign <img src="https://skillicons.dev/icons?i=spring" height="" alt="spring logo"  /></h2>
+<h2 align="left">OpenFeign <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  /></h2>
  
 ###
 ###
